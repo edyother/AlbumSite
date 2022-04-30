@@ -53,15 +53,31 @@
             <h1 class="heading_supersize"><span class="heading_center_bg">Ed Yother</span></h1>
             <p class="welcome_text">I'm recording an album. I've made this site share my progress with people as it happens, and in its unfinished state. Here's where that's currently at.</p>
           </div>
-          <div id="featured"> <img src="images/FluteMicBanner.jpeg" alt="Banner image" class="center">
+          <div id="featured"> <img src="images/AlbumArt2.png" alt="Banner image" class="center">
           </div>
 	 
         </div>
         <div>
-		<p><h3>In addition to just myself on a few instruments and singing, I've got some friends who've agreed to join on some of the tracks. I should also mention that here's a link to <a href="https://edyother.bandcamp.com/releases">my bandcamp page, where you can buy stuff.</a></p> 
+		<p><h3>In addition to just myself on a few instruments and singing, I've got some friends who've agreed to join on some of the tracks.</p> 
+
+<!-- News -->
+
+	<p class="blog_post">2022/4/28: The big news of the moment is that I picked a name for the album, and commissioned cover art from <a href="https://delsdoodles.com">Delyth Angharad.</a><p>
 
 <!-- The Tracks -->
 
+	<!-- Loved Her Set-->
+		  <p style="margin-left: 0px"><h5><strong>Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid - 2022/04/28<audio src="audio/Told Her I Loved Her.mp3"
+              preload="auto"> </audio></p>
+		  <p class="blog_post">2022/4/28: I've been working on and re-recording the flute for this one.<br>2022/03/6: Last night I started recording flute for this set. And as I have never actually learned to play any of these of flute before, that's going to take some work.<br>2022/02/28: Tonight I started recording a set of jigs I wrote.<br>Octave Mandolin - Ed Yother<br>Flute - Ed Yother</p>
+</p>
+
+
+	<!-- Oak Cliff Road -->
+		  <p style="margin-left: 0px"><h5><strong>The Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail - 2022/04/19<audio src="audio/Oak Cliff Road.mp3"
+              preload="auto"> </audio></p>
+		  <p class="blog_post">2022/04/19 I've re-recorded all the banjo on this one. I'll likely re-record all the banjo on all the tracks. I wasn't happy with the tone I was getting. So I pulled out another banjo that I don't play as often, and played around more with mic placement. So far I'm liking this sound better.<br>2022/02/28: I've decided to include the third tune in the set. I've also made a change to that tune, and re-recorded the set in preparation for another friend to come record fiddle on it.<br>2022/02/21: A set of three reels that I wrote. The same as the recording below, except including a reel that I wrote around the same time, but had kind of forgotten about. I'm still not sure if I want to include this third one or not. I'm a little more self conscious about it.<br>Tenor Banjo - Ed Yother</p>
+		
 	<!-- Dirty Old Town -->
 		<p style="margin-left: 0px"><h5><strong>Dirty Old Town - 2022/04/18<audio src="audio/Dirty Old Town.mp3"
               preload="auto"> </audio></p>
@@ -76,17 +92,8 @@
 		  <p class="blog_post">2022/03/6: I started recording this one today. It's just an old tune that I like, and is fun to play.<br>Flute - Ed Yother</p>
 
 
-	<!-- Loved Her Set-->
-		  <p style="margin-left: 0px"><h5><strong>Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid - 2022/04/02<audio src="audio/Told Her I Loved Her.mp3"
-              preload="auto"> </audio></p>
-		  <p class="blog_post">2022/03/6: Last night I started recording flute for this set. And as I have never actually learned to play any of these of flute before, that's going to take some work.<br>2022/02/28: Tonight I started recording a set of jigs I wrote.<br>Octave Mandolin - Ed Yother<br>Flute - Ed Yother</p>
-</p>
-
-	<!-- Oak Cliff Road -->
-		  <p style="margin-left: 0px"><h5><strong>The Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail - 2022/04/02<audio src="audio/Oak Cliff Road.mp3"
-              preload="auto"> </audio></p>
-		  <p class="blog_post">2022/02/28: I've decided to include the third tune in the set. I've also made a change to that tune, and re-recorded the set in preparation for another friend to come record fiddle on it.<br>2022/02/21: A set of three reels that I wrote. The same as the recording below, except including a reel that I wrote around the same time, but had kind of forgotten about. I'm still not sure if I want to include this third one or not. I'm a little more self conscious about it.<br>Tenor Banjo - Ed Yother</p>
-		  
+	
+	  
 	<!-- Young Tom Ennis -->
 		  <p style="margin-left: 0px"><h5><strong>Young Tom Ennis / The Rakes of Kildare / Jimmy Ward's - 2022/04/02<audio src="audio/Young Tom Ennis Set.mp3"
               preload="auto"> </audio></p>
