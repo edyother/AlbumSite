@@ -58,23 +58,30 @@
 	 
         </div>
         <div>
-		<p><h3>In addition to just myself on a few instruments and singing, I've got some friends who've agreed to join on some of the tracks.</p> 
+		<p class="blog post">In addition to just myself on a few instruments and singing, Some friends are joining me on some of the tracks.</p> 
 
-<!-- News -->
+	<!-- News -->
 
-	<p class="blog_post">2022/4/28: The big news of the moment is that I picked a name for the album, and commissioned cover art from <a href="https://delsdoodles.com">Delyth Angharad.</a><p>
+	<p class="blog post">2022/5/3: All the audio is new again. I went and remixed everything again. This time I removed the stereo widening effects and in their place attempted to do a similar thing by eq-ing each track differently for left and right sides. So far I'm liking how this sounds. <br>2022/5/1: All the audio is new. I've just deceded to redo all the mixing with a mind toward doing less. Reminding myself that the reason I like the microphone that I bought this year is that it is remarkably natural sounding, so I should probably not fuck with the sound so much.</p>
+
+	<p class="blog post">2022/4/28: The big news of the moment is that I picked a name for the album, and commissioned cover art from <a href="https://delsdoodles.com">Delyth Angharad.</a><p>
 
 <!-- The Tracks -->
-
-	<!-- Loved Her Set-->
-		  <p style="margin-left: 0px"><h5><strong>Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid - 2022/04/28<audio src="audio/Told Her I Loved Her.mp3"
+    
+    <!-- Roving Peddler -->
+            <p style="marging-left: 0px"><h5><strong>Roving Peddler - 2022/05/09<audio src="audio/Roving Peddler.mp3" 
+               preload="auto"></audio></p>
+            <p class="blog_post">2022/05/09: I started working on recording this one. I learned it years ago from an album by Jeff Warner and Jeff Davis. I love this song for being melodically interesting, rythmically weird, and for having lyrics that are endearingly rediculous.<br>Guitar - Ed Yother<br>Voice - Ed Yother</p> 
+	
+    <!-- Loved Her Set -->
+		  <p style="margin-left: 0px"><h5><strong>Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid - 2022/04/28<audio src="audio/Where I Told Her I Loved Her and Sprained Her Ankle - Coffee on the Bricks - The Persistence of Noel Reid.mp3"
               preload="auto"> </audio></p>
 		  <p class="blog_post">2022/4/28: I've been working on and re-recording the flute for this one.<br>2022/03/6: Last night I started recording flute for this set. And as I have never actually learned to play any of these of flute before, that's going to take some work.<br>2022/02/28: Tonight I started recording a set of jigs I wrote.<br>Octave Mandolin - Ed Yother<br>Flute - Ed Yother</p>
 </p>
 
 
 	<!-- Oak Cliff Road -->
-		  <p style="margin-left: 0px"><h5><strong>The Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail - 2022/04/19<audio src="audio/Oak Cliff Road.mp3"
+		  <p style="margin-left: 0px"><h5><strong>The Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail - 2022/04/19<audio src="audio/Oak Cliff Road - O'Dowd's Pitch - Kitty on the Rail.mp3"
               preload="auto"> </audio></p>
 		  <p class="blog_post">2022/04/19 I've re-recorded all the banjo on this one. I'll likely re-record all the banjo on all the tracks. I wasn't happy with the tone I was getting. So I pulled out another banjo that I don't play as often, and played around more with mic placement. So far I'm liking this sound better.<br>2022/02/28: I've decided to include the third tune in the set. I've also made a change to that tune, and re-recorded the set in preparation for another friend to come record fiddle on it.<br>2022/02/21: A set of three reels that I wrote. The same as the recording below, except including a reel that I wrote around the same time, but had kind of forgotten about. I'm still not sure if I want to include this third one or not. I'm a little more self conscious about it.<br>Tenor Banjo - Ed Yother</p>
 		
@@ -90,17 +97,14 @@
 		  <p style="margin-left: 0px"><h5><strong>Down the Hill - 2022/04/02<audio src="audio/Down The Hill.mp3"
               preload="auto"> </audio></p>
 		  <p class="blog_post">2022/03/6: I started recording this one today. It's just an old tune that I like, and is fun to play.<br>Flute - Ed Yother</p>
-
-
-	
-	  
+            
 	<!-- Young Tom Ennis -->
-		  <p style="margin-left: 0px"><h5><strong>Young Tom Ennis / The Rakes of Kildare / Jimmy Ward's - 2022/04/02<audio src="audio/Young Tom Ennis Set.mp3"
+		  <p style="margin-left: 0px"><h5><strong>Young Tom Ennis / The Rakes of Kildare / Jimmy Ward's - 2022/04/02<audio src="audio/Young Tom Ennis - The Rakes of Kildare - Jimmy Ward's.mp3"
               preload="auto"> </audio></p>
 		  <p class="blog_post">2022/02/20: Here's a sketch of a set that I want to record.<br>Flute - Ed Yother</p>
 
 	<!-- Julia Delaney -->
-		  <p style="margin-left: 0px"><h5><strong>Julia Delaney / Ships are Sailing / The Star of Munster - 2022/04/02<audio src="audio/Julia Delaney.mp3"
+		  <p style="margin-left: 0px"><h5><strong>Julia Delaney / Ships are Sailing / The Star of Munster - 2022/04/02<audio src="audio/Julia Delaney - Ships are Sailing - Star of Munster.mp3"
               preload="auto"> </audio></p>
 		  <p class="blog_post">2022/02/20: I did more work on the mix this morning.<br>2022/02/19: Today I recorded my friends Eli Hickey and Scott Freeman playing on this track.<br>Tenor Banjo - Ed Yother<br>Fiddle - Eli Hickey<br>Guitar - Scott Freeman</p>
 
@@ -117,7 +121,7 @@
 		  <p class="blog_post">2022/02/12: I just had an idea for a mandolin part and quickly recorded it. I still need to redo it without the mistakes. I also still need to properly record the vocals. These were just temporary scratch vocals.<br>Guitar - Ed Yother<br>Voice - Ed Yother<br>Mandolin - Ed Yother</p>
 
 	<!-- Walls of Liscarroll -->
-          <p style="margin-left: 0px"><h5><strong>The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker - 2022/04/02<audio src="audio/Liscarrol Set.mp3"
+          <p style="margin-left: 0px"><h5><strong>The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker - 2022/04/02<audio src="audio/Walls of Liscarrol - Behind the Haystack - Merrily Kissed the Quaker.mp3"
               preload="auto"> </audio></p>
 			<p class="blog_post">2022/02/11: If I do anything else to this one it will be bringing in a friend to play guitar or fiddle, or something. <br>2022/02/14: I lied. I think I'm going to re-record the OM part. I have lighter that strings on it that I usually use, and I don't think I like them.<br>Octave Mandolin - Ed Yother<br>Flute - Ed Yother</p>
 		          
